@@ -1,0 +1,23 @@
+# Build do Maven e Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Banco de dados local gerado na execução
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
