@@ -15,6 +15,7 @@ Aplicação desktop em **Java** com interface gráfica **Swing** e persistência
 - SQLite (`sqlite-jdbc`)
 
 ## Como executar
+
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/GuilhermeWHReis/Estante-Di-rio-de-Leitura.git](https://github.com/GuilhermeWHReis/Estante-Di-rio-de-Leitura.git)
