@@ -18,4 +18,4 @@ Aplicação desktop em **Java** com interface gráfica **Swing** e persistência
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/GuilhermeWHReis/Estante-Di-rio-de-Leitura.git](https://github.com/GuilhermeWHReis/Estante-Di-rio-de-Leitura.git)
+   git clone https://github.com/GuilhermeWHReis/Estante-Di-rio-de-Leitura.git
